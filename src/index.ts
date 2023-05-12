@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000
 
 
 
-//some message
+//some message url
 
 const parserMiddleware = bodyParser({})
 app.use(parserMiddleware)
